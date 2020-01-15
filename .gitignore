@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+*.pickle
+*.img
+*.png
+*.jpg
+*.avi
+*.caffemodel
+*.dat
+*.xml
+*.prototxt
+*.mp4
+*.yml
+deploy.prototxt.txt
+openface_nn4.small2.v1.t7
