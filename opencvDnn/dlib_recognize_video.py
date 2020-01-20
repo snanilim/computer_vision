@@ -33,7 +33,7 @@ le = pickle.loads(open(args["le"], "rb").read())
 embedder = cv2.dnn.readNetFromTorch(args["embedding_model"])
 
 # cap = cv2.VideoCapture("/home/nilim/Documents/programmer/backup/record.avi")
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(2)
 
 if(cap.isOpened == False):
 	print("Error opening video stream or file")
@@ -54,7 +54,9 @@ while(cap.isOpened):
 
 				vec = face_recognition.face_encodings(rgb, [box])
 				preds = recognizer.predict_proba(vec)[0]
+				print('preds', preds)
 				j = np.argmax(preds)
+				print(j)
 				proba = preds[j]
 
 				name = "unknown"

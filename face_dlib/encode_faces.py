@@ -36,8 +36,8 @@ for (i, imagePath) in enumerate(imagePaths):
     encodings = face_recognition.face_encodings(rgb, boxes)
     
     if len(boxes) > 0:
-        print('rgb', rgb)
-        print('boxes:', encodings)
+        # print('rgb', rgb)
+        # print('boxes:', encodings)
         for encoding in encodings:
             print('encoding', name)
             knownEncodings.append(encoding)

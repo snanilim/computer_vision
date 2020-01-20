@@ -43,8 +43,8 @@ le = pickle.loads(open(args["le"], "rb").read())
 
 # initialize the video stream, then allow the camera sensor to warm up
 print("[INFO] starting video stream...")
-# vs = cv2.VideoCapture("/home/nilim/Documents/programmer/backup/multiple.avi")
-vs = VideoStream(src=0).start()
+vs = cv2.VideoCapture("/home/nilim/Documents/programmer/backup/record.avi")
+# vs = VideoStream(src=0).start()
 time.sleep(2.0)
 
 # start the FPS throughput estimator
@@ -56,8 +56,8 @@ fps = FPS().start()
 # loop over frames from the video file stream
 while True:
 	# grab the frame from the threaded video stream
-	# (asd, frame) = vs.read()
-	frame = vs.read()
+	(asd, frame) = vs.read()
+	# frame = vs.read()
 
 	# resize the frame to have a width of 600 pixels (while
 	# maintaining the aspect ratio), and then grab the image

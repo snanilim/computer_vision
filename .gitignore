@@ -144,3 +144,11 @@ dmypy.json
 *.yml
 deploy.prototxt.txt
 openface_nn4.small2.v1.t7
+*.h5
+*.npz
+*.npy
+*.pb
+*.pkl
+bin
+lib64
+share
