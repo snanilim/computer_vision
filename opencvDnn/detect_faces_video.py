@@ -32,13 +32,13 @@ time.sleep(2.0)
 camExitNum = 0
 # loop over the frames from the video stream
 
-imagePaths = list(paths.list_images("/home/nilim/Documents/programmer/backup/dataset/mahfuz"))
-for (i, imagePath) in enumerate(imagePaths):
-	frame = cv2.imread(imagePath)
-# while True:
+# imagePaths = list(paths.list_images("/home/nilim/Documents/programmer/backup/dataset/mahfuz"))
+# for (i, imagePath) in enumerate(imagePaths):
+# 	frame = cv2.imread(imagePath)
+while True:
 	# grab the frame from the threaded video stream and resize it
 	# to have a maximum width of 400 pixels
-	# frame = vs.read()
+	frame = vs.read()
 	frame = imutils.resize(frame, width=600)
  
 	# grab the frame dimensions and convert it to a blob

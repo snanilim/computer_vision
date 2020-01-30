@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 
-
+models/
 
 *.pickle
 *.img
@@ -149,6 +149,7 @@ openface_nn4.small2.v1.t7
 *.npy
 *.pb
 *.pkl
+*.csv
 bin
 lib64
 share

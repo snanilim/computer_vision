@@ -1,0 +1,145 @@
+[{
+	"Id": 3,
+	"Name": "IQVIA",
+	"ShortName": "IQVIA",
+	"GroupId": 7,
+	"GroupName": "G"
+}, {
+	"Id": 5,
+	"Name": "Brain Station - 23",
+	"ShortName": "BS-23",
+	"GroupId": 6,
+	"GroupName": "F"
+}, {
+	"Id": 6,
+	"Name": "Escenic",
+	"ShortName": "Escenic",
+	"GroupId": 4,
+	"GroupName": "D"
+}, {
+	"Id": 7,
+	"Name": "Selise",
+	"ShortName": "Selise",
+	"GroupId": 2,
+	"GroupName": "B"
+}, {
+	"Id": 8,
+	"Name": "Cefalo",
+	"ShortName": "Cefalo",
+	"GroupId": 8,
+	"GroupName": "H"
+}, {
+	"Id": 9,
+	"Name": "SoftwarePeople | GraphicPeople",
+	"ShortName": "SP | GP",
+	"GroupId": 1,
+	"GroupName": "A"
+}, {
+	"Id": 11,
+	"Name": "Therap",
+	"ShortName": "Therap",
+	"GroupId": 2,
+	"GroupName": "B"
+}, {
+	"Id": 19,
+	"Name": "Enosis Solutions",
+	"ShortName": "Enosis",
+	"GroupId": 3,
+	"GroupName": "C"
+}, {
+	"Id": 21,
+	"Name": "Tiger IT",
+	"ShortName": "Tiger IT",
+	"GroupId": 1,
+	"GroupName": "A"
+}, {
+	"Id": 25,
+	"Name": "IdeaScale",
+	"ShortName": "IdeaScale",
+	"GroupId": 2,
+	"GroupName": "B"
+}, {
+	"Id": 32,
+	"Name": "Streams Tech",
+	"ShortName": "STL",
+	"GroupId": 1,
+	"GroupName": "A"
+}, {
+	"Id": 34,
+	"Name": "BJIT",
+	"ShortName": "BJIT",
+	"GroupId": 8,
+	"GroupName": "H"
+}, {
+	"Id": 37,
+	"Name": "SSL Wireless",
+	"ShortName": "SSL Wireless",
+	"GroupId": 4,
+	"GroupName": "D"
+}, {
+	"Id": 38,
+	"Name": "Brain Craft",
+	"ShortName": "Brain Craft",
+	"GroupId": 5,
+	"GroupName": "E"
+}, {
+	"Id": 39,
+	"Name": "Dynamic Solution Innovators",
+	"ShortName": "DSI",
+	"GroupId": 7,
+	"GroupName": "G"
+}, {
+	"Id": 40,
+	"Name": "Bit Mascot",
+	"ShortName": "Bit Mascot",
+	"GroupId": 6,
+	"GroupName": "F"
+}, {
+	"Id": 41,
+	"Name": "Telenor Health",
+	"ShortName": "Telenor",
+	"GroupId": 3,
+	"GroupName": "C"
+}, {
+	"Id": 42,
+	"Name": "Kite Games",
+	"ShortName": "Kite Games",
+	"GroupId": 8,
+	"GroupName": "H"
+}, {
+	"Id": 43,
+	"Name": "Pathao",
+	"ShortName": "Pathao",
+	"GroupId": 3,
+	"GroupName": "C"
+}, {
+	"Id": 45,
+	"Name": "Samsung R\u0026D",
+	"ShortName": "Samsung",
+	"GroupId": 5,
+	"GroupName": "E"
+}, {
+	"Id": 60,
+	"Name": "Datasys Ltd",
+	"ShortName": "Datasys",
+	"GroupId": 4,
+	"GroupName": "D"
+}, {
+	"Id": 61,
+	"Name": "WP Developers",
+	"ShortName": "WP Developers",
+	"GroupId": 5,
+	"GroupName": "E"
+}, {
+	"Id": 62,
+	"Name": "Vivasoft Limited",
+	"ShortName": "Vivasoft Ltd.",
+	"GroupId": 6,
+	"GroupName": "F"
+}, {
+	"Id": 63,
+	"Name": "Infolytx",
+	"ShortName": "Infolytx",
+	"GroupId": 7,
+	"GroupName": "G"
+}]

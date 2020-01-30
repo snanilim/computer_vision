@@ -47,7 +47,7 @@ with tf.Graph().as_default():
         with open(classifier_filename_exp, 'rb') as infile:
             (model, class_names) = pickle.load(infile)
 
-        video_capture = cv2.VideoCapture(2)
+        video_capture = cv2.VideoCapture(0)
         c = 0
 
 
@@ -98,6 +98,7 @@ with tf.Graph().as_default():
                         
 
                         cropped.append(frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :])
+                        cv2.imwrite('./ok.jpg', frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :])
                         print('cropped[i]', len(cropped))
                         print('cropped[i]', i)
 
