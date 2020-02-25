@@ -1,0 +1,119 @@
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 19b.png 273 99 437 287
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 30b.png 293 110 456 329
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 49b.png 199 153 371 367
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 0b.png 170 122 336 325
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 39b.png 254 138 422 365
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 2b.png 177 126 338 325
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 42b.png 224 140 395 357
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 22b.png 281 110 443 323
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 4b.png 184 123 347 322
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 29b.png 288 112 454 328
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 32b.png 291 120 454 348
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 15b.png 247 105 405 280
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 3b.png 179 124 345 324
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 16b.png 252 103 409 281
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 26b.png 291 124 449 335
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 33b.png 289 133 452 342
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 1b.png 173 126 334 324
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 47b.png 194 155 368 374
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 12b.png 219 117 376 301
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 48b.png 196 151 368 368
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 17b.png 260 98 416 282
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 38b.png 257 134 426 358
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 31b.png 294 120 447 330
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 46b.png 192 146 368 368
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 28b.png 294 123 451 330
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 7b.png 189 122 355 320
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 9b.png 197 124 355 316
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 21b.png 272 103 436 308
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 41b.png 237 136 405 361
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 44b.png 201 146 375 370
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 36b.png 269 136 429 352
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 14b.png 232 102 392 289
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 25b.png 289 125 447 332
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 6b.png 189 120 356 329
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 37b.png 259 127 429 359
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 10b.png 204 125 360 317
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 27b.png 291 125 448 332
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 8b.png 194 122 353 316
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 24b.png 289 127 445 333
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 13b.png 226 108 386 293
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 20b.png 274 95 439 295
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 11b.png 213 119 371 307
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 23b.png 287 121 444 330
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 18b.png 258 94 422 288
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 5b.png 190 127 349 325
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 34b.png 287 135 444 343
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 45b.png 198 140 374 366
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 35b.png 275 128 438 347
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 40b.png 252 144 417 366
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/Rafid-2/ 43b.png 217 141 387 359
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_112003933482.png 115 105 311 375
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_110231653536.png 217 87 260 142
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_3_104225831145.png 58 156 291 440
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_109214744250.png 247 69 393 260
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_104230054071.png 79 135 264 366
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_123231304660.png 182 35 267 153
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_1_103181218960.png 356 47 488 220
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_105184038831.png 155 52 226 145
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103234950908.png 105 124 295 380
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_3_104214328637.png 28 61 185 249
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_111181750330.png 155 68 230 165
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_1_0_103163040136.png 198 83 347 291
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_1190613907.png 103 50 199 183
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_102233329675.png 78 146 339 484
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103210118506.png 127 111 220 225
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103180625656.png 67 71 234 279
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_1_102233456210.png 33 85 237 336
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103234945243.png 110 87 252 291
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_104021847349.png 487 104 676 347
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104214521685.png 17 74 156 243
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104165239658.png 50 30 239 287
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_1192105922.png 236 31 321 145
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104230150057.png 167 38 255 156
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_4_102233239947.png 48 74 260 355
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_104020102786.png 57 147 358 537
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103210052027.png 58 22 126 109
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104002326444.png 122 48 196 136
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_1_0_103163056975.png 61 121 298 441
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_104230051977.png 101 40 307 311
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103163127424.png 106 49 308 328
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103180635111.png 22 7 207 267
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_104020112732.png 211 131 454 456
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_1_0_103175416510.png 137 86 271 272
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_105161706251.png 88 57 243 278
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_105183430767.png 220 73 337 221
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104230212395.png 284 61 390 192
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_105184142103.png 160 118 232 215
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103163324584.png 57 4 139 118
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103180549431.png 114 50 221 193
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_103223924087.png 61 32 242 269
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103163129280.png 136 101 274 287
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_1192432539.png 9 68 120 208
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_2_103234745028.png 202 32 499 394
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_120222335651.png 110 135 301 383
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104004125063.png 94 105 292 367
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_1192221394.png 115 53 195 165
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103224944762.png 162 27 265 168
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_102233500506.png 22 55 280 395
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104230201657.png 133 87 240 228
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104214346781.png 126 83 255 244
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103180601840.png 57 18 136 122
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_105161704786.png 144 204 250 341
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103223915799.png 76 60 221 256
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_3_104214317461.png 46 59 133 168
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_4_103234731301.png 102 135 267 341
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_4_105161709125.png 113 135 262 323
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_104015809173.png 102 99 290 363
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_1_103212749284.png 96 21 250 199
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_2_104234829387.png 125 95 280 317
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104230108767.png 128 89 254 262
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_0_110232156775.png 516 235 961 792
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_0_104230603529.png 135 90 313 324
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104230213449.png 127 77 332 334
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_3_104214325910.png 56 65 148 199
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_1_0_103180557248.png 97 83 255 319
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104230147273.png 52 70 238 300
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/20_0_4_103234738979.png 102 47 240 235
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_4_103223928055.png 48 65 210 259
+/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/multiple_face_detection/pre_img/unknown/24_0_3_104230211113.png 144 27 258 175

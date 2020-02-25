@@ -36,3 +36,8 @@ can not find all angle face
 python3 encode_faces.py
 python3 dlib_train_model.py
 python3 dlib_recognize_video.py
+
+
+
+# command
+autopep8 -i singledetector.py 
