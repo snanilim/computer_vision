@@ -2,19 +2,24 @@
 
 {% block content %}
     <script src="{{ url_for('static', filename='js/capture.js') }}"></script>
-    <div id="vid-controls">
-        <form>
-            <video id="vid-show" autoplay></video>
-            <div class="form-group">
-                <button class="btn btn-info btn-block" id="vid-take" type="button"> Take Photo </button>
+    
+    <div class="card">
+        <div class="card-body" style="overflow: hidden;">
+            <div id="vid-controls">
+                <form>
+                    <video id="vid-show" autoplay></video>
+                    <div class="form-group">
+                        <button class="btn btn-info btn-block" id="vid-take" type="button"> Take Photo </button>
+                    </div>
+                    <div id="vid-canvas" class="text-center"></div>
+        
+                    <div class="form-group">
+                        <input type="text" class="form-control" id='person_name' name="person_name" placeholder="Person Name">
+                    </div>
+                    
+                    <button class="btn btn-info btn-block" id="save-image" type="button"> Save</button>
+                </form>
             </div>
-            <div id="vid-canvas" class="text-center"></div>
-
-            <div class="form-group">
-                <input type="text" class="form-control" id='person_name' name="person_name" placeholder="Person Name">
-            </div>
-            
-            <button class="btn btn-info btn-block" id="save-image" type="button"> Save</button>
-        </form>
+        </div>
     </div>
 {% endblock %}

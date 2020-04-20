@@ -122,6 +122,16 @@ def train_dataset():
     dataset(path)
 
 
+def compare_two_img(image_one, image_two):
+    enc_one = img_to_encoding_db(image_one)
+    enc_two = img_to_encoding_db(image_two)
+
+    dist = distance(enc_one, enc_two)
+
+    return dist
+
+
+
 def single_face():
     with open('/home/nilim/Documents/programmer/computer_vision/facenet-test/web_view/face_modules/single_face_detection/database/database.pkl', 'rb') as handle:
         database = pickle.load(handle)
