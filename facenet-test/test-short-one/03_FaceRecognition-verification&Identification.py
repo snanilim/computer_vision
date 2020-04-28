@@ -17,12 +17,18 @@ d = dtk.Detection()
 
 
 
+# def img_to_encoding(img):
+#     # image = plt.imread(img)
+#     # image = img
+#     # print('image', type(image))
+#     # aligned = d.align(image, False)[0]
+#     return v.img_to_encoding(img, image_size)
+
 def img_to_encoding(img):
-    # image = plt.imread(img)
-    # image = img
-    # print('image', type(image))
-    # aligned = d.align(image, False)[0]
-    return v.img_to_encoding(img, image_size)
+    image = plt.imread(img)
+    print('image', image)
+    aligned = d.align(image, False)[0]
+    return v.img_to_encoding(aligned, image_size)
 
 def img_to_encoding_db(img):
     image = plt.imread(img)
@@ -32,12 +38,12 @@ def img_to_encoding_db(img):
 
 database = {}
 
-database["alireza"] = img_to_encoding_db("./images/alireza.jpg")
-database["ali"] = img_to_encoding_db("./images/ali.jpg")
-database["mohsen"] = img_to_encoding_db("./images/mohsen.jpg")
-database["muhammad"] = img_to_encoding_db("./images/muhammad.jpg")
-database["nilim"] = img_to_encoding_db("/home/nilim/Documents/programmer/backup/face-match/nilim/received_2085046494845352.jpg")
-database["abc"] = img_to_encoding_db("/home/nilim/Documents/programmer/computer_vision/facenet-test/test-short-one/images/muhammad.jpg")
+# database["alireza"] = img_to_encoding_db("./images/alireza.jpg")
+# database["ali"] = img_to_encoding_db("./images/ali.jpg")
+# database["mohsen"] = img_to_encoding_db("./images/mohsen.jpg")
+# database["muhammad"] = img_to_encoding_db("./images/muhammad.jpg")
+# database["nilim"] = img_to_encoding_db("/home/nilim/Documents/programmer/backup/face-match/nilim/received_2085046494845352.jpg")
+database["abc"] = img_to_encoding_db("/home/nilim/Downloads/phpA2A2.tmp.png.jpeg")
 
 
 
@@ -97,7 +103,7 @@ def who_is_it(image_path, database):
 
   
     if min_dist > verification_threshhold:
-        print("Not in the database.")
+        print("Not in the database. the distance is " + str(min_dist))
     else:
         print ("it's " + str(identity) + ", the distance is " + str(min_dist))
         
@@ -108,6 +114,6 @@ def who_is_it(image_path, database):
 
 # who_is_it("images/m.jpg", database)
 
-# who_is_it("images/m_wrapped.jpg", database)
-image = plt.imread("/home/nilim/Documents/programmer/computer_vision/facenet-test/test-short-one/unknown.jpg")
-who_is_it(image, database)
+who_is_it("/home/nilim/Documents/programmer/compare_face_api/two_face_compare_api/static/compare_two_img/compare_img_two.jpg", database)
+# image = plt.imread("/home/nilim/Downloads/processed.jpeg")
+# who_is_it(image, database)

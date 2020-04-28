@@ -3,3 +3,8 @@ Pillow
 opencv-python
 imutils
 scipy
+scikit-learn
+scikit-image
+tensorflow
+keras
+matplotlib

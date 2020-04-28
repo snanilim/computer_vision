@@ -17,7 +17,7 @@ threshold = [ 0.6, 0.7, 0.7 ]  # three steps's threshold
 factor = 0.709 # scale factor
 
 
-img = plt.imread("/home/nilim/Documents/programmer/compare_face_api/two_face_compare_api/static/compare_two_img/compare_img_one.jpg")
+img = plt.imread("/home/nilim/Documents/programmer/compare_face_api/two_face_compare_api/static/compare_two_img/compare_img_two.jpg")
 # plt.imshow(img)
 # plt.show()
 
