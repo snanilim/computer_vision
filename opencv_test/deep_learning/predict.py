@@ -19,6 +19,8 @@ ap.add_argument("-f", "--flatten", type=int, default=-1,
 	help="whether or not we should flatten the image")
 args = vars(ap.parse_args())
 
+# python predict.py --image images/cat.jpg --model output/simple_nn.model --label-bin output/simple_nn_lb.pickle --width 32 --height 32 --flatten 1
+
 
 # load the input image and resize it to the target spatial dimensions
 image = cv2.imread(args["image"])

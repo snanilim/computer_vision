@@ -33,6 +33,8 @@ ap.add_argument("-p", "--plot", required=True,
 	help="path to output accuracy/loss plot")
 args = vars(ap.parse_args())
 
+# python train_simple_nn.py --dataset animals --model output/simple_nn.model --label-bin output/simple_nn_lb.pickle --plot output/simple_nn_plot.png
+
 # initialize the data and labels
 print("[INFO] loading images...")
 data = []
