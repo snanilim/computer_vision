@@ -43,12 +43,13 @@ database = {}
 # database["mohsen"] = img_to_encoding_db("./images/mohsen.jpg")
 # database["muhammad"] = img_to_encoding_db("./images/muhammad.jpg")
 # database["nilim"] = img_to_encoding_db("/home/nilim/Documents/programmer/backup/face-match/nilim/received_2085046494845352.jpg")
-database["abc"] = img_to_encoding_db("/home/nilim/Downloads/phpA2A2.tmp.png.jpeg")
+
 
 
 
 
 def distance(emb1, emb2):
+    print('emb1', emb1)
     diff = np.subtract(emb1, emb2)
     return np.sum(np.square(diff))
 
@@ -114,6 +115,7 @@ def who_is_it(image_path, database):
 
 # who_is_it("images/m.jpg", database)
 
-who_is_it("/home/nilim/Documents/programmer/compare_face_api/two_face_compare_api/static/compare_two_img/compare_img_two.jpg", database)
+database["abc"] = img_to_encoding_db("/home/nilim/Downloads/EC_IMAGE/1584820232589.JPEG")
+who_is_it("/home/nilim/Downloads/EC_IMAGE/processed.jpeg", database)
 # image = plt.imread("/home/nilim/Downloads/processed.jpeg")
 # who_is_it(image, database)

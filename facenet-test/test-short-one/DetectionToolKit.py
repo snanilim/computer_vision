@@ -20,9 +20,9 @@ class Detection:
 
     def detect(self, img, detect_multiple_faces = True):
         bboxes = []
-        bounding_boxes, points = detect_face.detect_face(
-                img, minsize, self.pnet, self.rnet, self.onet, threshold, factor)
+        bounding_boxes, points = detect_face.detect_face(img, minsize, self.pnet, self.rnet, self.onet, threshold, factor)
         nrof_faces = bounding_boxes.shape[0]
+        print('nrof_faces', nrof_faces)
         if nrof_faces > 0:
             det = bounding_boxes[:, 0:4]
             det_arr = []

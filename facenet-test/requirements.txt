@@ -10,3 +10,4 @@ requests
 psutil
 imutils
 Flask
+scikit-image
